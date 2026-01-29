@@ -13,7 +13,7 @@ For DoublyLinkedList class, `add` and `get` methods are implemented, every other
 
 ## Submission
 
-> [![important]
+> ![important]
 > You need to submit a Github repository link at the end of this test!
 
 Clone the repository, make it public, and remember to commit and push your work before leaving.
